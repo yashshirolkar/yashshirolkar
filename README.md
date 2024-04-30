@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashshirolkar
+- 👋 Hi, I’m Yashodhan Shirolkar
 - 👀 I’m interested in Supply Chain, AI, ML and Python
 - 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on Supply Chain software development
